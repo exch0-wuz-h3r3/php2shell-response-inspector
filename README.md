@@ -47,11 +47,11 @@ No additional Python packages are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/php2shell-response-inspector.git
+git clone https://github.com/exch0-wuz-h3r3/php2shell-response-inspector.git
 cd php2shell-response-inspector
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+
 
 ## Usage
 
